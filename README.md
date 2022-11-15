@@ -1,8 +1,3 @@
-Train Model:
-```bash
-python ./tf/train_mnist.py
-```
-
 Run api: 
 ```bash
 uvicorn main:app
